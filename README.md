@@ -14,8 +14,8 @@ This project involves analyzing and visualizing trends in Boston's condominium r
 
 ## Installation
 1. Install [Tableau](https://www.tableau.com/) on your system.
-2. Clone this repository using `git clone https://github.com/your-username/your-repo.git`.
-3. Open the Tableau visualization file (`project_name.twb`) in Tableau.
+2. Clone this repository 
+3. Open the Tableau visualization file in Tableau.
 
 ## Usage
 Open the Tableau visualization file to explore and interact with the Boston condo sales data. Navigate through various visualizations to understand trends and patterns in the condominium real estate market.
